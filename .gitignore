@@ -36,3 +36,5 @@ build/
 D:/
 *.eslintcache
 bin/
+src/main/resources/CDAR2_IG_PHCASERPT_R2_STU1.1_SCHEMATRON.sch
+src/main/resources/ersd.json
